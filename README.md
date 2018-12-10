@@ -9,3 +9,6 @@ mvn test
 docsify serve docs
 ```
 browse `localhost:3000`
+
+## Others
+- [一篇文章关于这个项目](https://jiangtj.gitlab.io/articles/almond/restdoc-and-docsify/)
