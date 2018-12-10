@@ -5,4 +5,5 @@
 mvn test
 docsify serve docs
 ```
-browse `localhost:3000`
+browse `localhost:3000`   
+click sidebar `User Api`
