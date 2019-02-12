@@ -12,5 +12,4 @@ browse `localhost:3000`
 
 ## Others
 - [一篇文章关于这个项目](https://www.dnocm.com/articles/almond/restdoc-and-docsify/)
-
-push test11
+- 添加GitHub Action自动部署： https://jiangtj.github.io/restdoc-docsify/
